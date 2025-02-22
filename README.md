@@ -1,30 +1,31 @@
-welcome my name is mohamed sharif I enjoy experimenting with new technologies, building small projects, and exploring emerging fields like entrepreneurship and fintech. ✨
+ 👋 Hello, I'm Mohamed Sharif  
 
-Here's a list of things I currently keep myself busy with:
+I am a Software Engineer passionate about technology, innovation, and problem-solving. My interests lie at the intersection of software development, AI, fintech, and entrepreneurship. I enjoy building impactful projects, sharing insights, and exploring new advancements in the tech world.  
 
-- 👩🏻‍💻 Working as a software engineer over at **[skillup](https://skillup.so)**
-- ☀️ Sharpening my skills in AI training models (the future is fascinating!)
-- ✍️ Writing tech content posts over at **[my page](https://www.facebook.com/mohamedsharifmukhtar/)**.
-- 🛠 Tinkering with Maalx and MuraadPay platforms (you might hear more about these soon!)
+🚀 What I’m Currently Working On  
 
-<details>
-  <summary>Some other facts about me</summary>
-  <br>
-  <p><i>Power Up my Day! ⚡️</i><p>
+- 💼 Software Engineer at [Skillup](https://skillup.so)  
+- 🤖 Exploring AI and machine learning model training  
+- ✍️ Writing tech content posts over at [my page](https://www.facebook.com/mohamedsharifmukhtar/)  
+- 🛠 Building fintech solutions with Maalx and MuraadPay
 
- Mornings: Walk & Learn (Podcast + Startup YouTube stories) <br>
-Workday: Hustle & Meetings<br>
-Evenings: Family Time ❤️ + Quran & Success Stories (YouTube) ✨
-  
+📌 Tech Stack & Interests  
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=mohamedsharif1&show_icons=true&theme=nord)
-  <br><br>
-</details>
+- Languages: JavaScript, TypeScript, Go  
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Node.js, Express.js, NestJS, Go (Gin, Fiber)  
+- Databases: PostgreSQL, MongoDB, Firebase  
+- Cloud & DevOps: AWS, Docker, CI/CD  
+- Other Interests: AI/ML, Web3, Business Automation  
 
-<hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+ 📊 GitHub Stats  
 
-<p align="center">
-    <a href="https://x.com/Mohamedsharif61?t=0JwZPB-yW1AtlkC1-roL_Q&s=09" alt="Twitter"><img /src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/mohamed-sharif-muktar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsharif1&show_icons=true&theme=react)  
+
+ 🌍 Let's Connect  
+
+- Twitter (X): [@Mohamedsharif61](https://x.com/Mohamedsharif61?t=0JwZPB-yW1AtlkC1-roL_Q&s=09)  
+- LinkedIn: [Mohamed Sharif](https://www.linkedin.com/in/mohamed-sharif-muktar)  
+- GitHub: [mohamedsharif1](https://github.com/mohamedsharif1)  
+
+💡 Always open to collaboration, discussions, and learning opportunities.
