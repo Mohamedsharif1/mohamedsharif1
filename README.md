@@ -1,31 +1,69 @@
- 👋 Hello, I'm Mohamed Sharif  
+<div align="center">
+  <h1>Mohamed Sharif</h1>
+  <h3>Software Engineer | Architect of Innovation</h3>
+</div>
 
-I am a Software Engineer passionate about technology, innovation, and problem-solving. My interests lie at the intersection of software development, AI, fintech, and entrepreneurship. I enjoy building impactful projects, sharing insights, and exploring new advancements in the tech world.  
+---
 
-🚀 What I’m Currently Working On  
+## Profile  
+I am a Software Engineer with a relentless drive to architect solutions that redefine industries. Specializing in software development, artificial intelligence, and fintech, I deliver scalable, high-impact systems with precision and foresight. My mission is to push technological boundaries and create value at the intersection of code and vision.
 
-- 💼 Software Engineer at [Skillup](https://skillup.so)  
-- 🤖 Exploring AI and machine learning model training  
-- ✍️ Writing tech content posts over at [my page](https://www.facebook.com/mohamedsharifmukhtar/)  
-- 🛠 Building fintech solutions with Maalx and MuraadPay
+---
 
-📌 Tech Stack & Interests  
+## Current Endeavors  
+- **Software Engineer** – [Skillup](https://skillup.so)  
+  *Engineering next-generation learning platforms.*  
+- **Fintech Innovator** – Maalx & MuraadPay  
+  *Designing secure, efficient financial ecosystems.*  
+- **AI Research** – Machine Learning & Model Optimization  
+  *Harnessing intelligence for real-world applications.*  
+- **Thought Leader** – Technical Writing & Insights  
+  *Shaping discourse in emerging tech domains.*  
 
-- Languages: JavaScript, TypeScript, Go  
-- Frontend: React, Next.js, Tailwind CSS  
-- Backend: Node.js, Express.js, NestJS, Go (Gin, Fiber)  
-- Databases: PostgreSQL, MongoDB, Firebase  
-- Cloud & DevOps: AWS, Docker, CI/CD  
-- Other Interests: AI/ML, Web3, Business Automation  
+---
 
- 📊 GitHub Stats  
+## Expertise  
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>JavaScript, TypeScript, Go</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express.js, NestJS, Go (Gin, Fiber)</td>
+  </tr>
+  <tr>
+    <td>Data</td>
+    <td>PostgreSQL, MongoDB, Firebase</td>
+  </tr>
+  <tr>
+    <td>Cloud & DevOps</td>
+    <td>AWS, Docker, CI/CD</td>
+  </tr>
+  <tr>
+    <td>Focus Areas</td>
+    <td>AI/ML, Web3, Business Automation</td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsharif1&show_icons=true&theme=react)  
+---
 
- 🌍 Let's Connect  
+## Network  
+<div align="center">
+  <a href="https://x.com/Mohamedsharif61"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/mohamed-sharif-muktar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mohamedsharif1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
-- Twitter (X): [@Mohamedsharif61](https://x.com/Mohamedsharif61?t=0JwZPB-yW1AtlkC1-roL_Q&s=09)  
-- LinkedIn: [Mohamed Sharif](https://www.linkedin.com/in/mohamed-sharif-muktar)  
-- GitHub: [mohamedsharif1](https://github.com/mohamedsharif1)  
+---
 
-💡 Always open to collaboration, discussions, and learning opportunities.
+## Vision  
+I am committed to pioneering transformative projects and fostering collaboration at the cutting edge of technology. Let’s build the future—connect with me to explore synergies.
